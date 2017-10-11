@@ -1,0 +1,5 @@
+{
+  "email": "FROM_EMAIL",
+  "pass": "FROM_EMAIL_PASSWORD",
+  "to": "TO_EMAIL"
+}
